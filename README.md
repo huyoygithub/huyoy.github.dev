@@ -1,5 +1,5 @@
 <h1 align="center">Hi Bro ! I'm HuyOy</h1>
-<h3 align="center">A Embedded programming fresher</h3>
+<h3 align="center">Tui nhận làm bài tập và đồ án môn (IoT, đồ án 1, 2 , liên nghành , lập trình arduino-esp32, Android app, PLC, làm mạch PCB thủ công) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=huyoygithub&label=Profile%20views&color=0e75b6&style=flat" alt="huyoygithub" /> </p>
 
